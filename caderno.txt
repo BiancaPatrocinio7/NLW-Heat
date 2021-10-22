@@ -1,0 +1,10 @@
+display: flex - colocar um do lado do outro
+rem = tantos.px / 16
+z-index - profundidade
+gap - espaço entre eles
+padding - espaço dentro da caixa, preenchimento
+border - espaço fora da caixa
+
+place-items só funciona por conta do display: grid
+
+já o display: flex permite usar gap e outras funções
